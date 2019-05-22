@@ -1,0 +1,27 @@
+.fnd{
+    position:relative;
+}
+
+.dropdown-menu{
+    position:absolute;
+    right:0;
+    top:100%;
+    font-size:10px;
+    color: gray;
+}
+
+body{
+    background:white;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: gray !important;
+    color: white !important;
+}
+
+.nav-link{
+    background: white !important;
+    color: gray !important;
+}
+
+
